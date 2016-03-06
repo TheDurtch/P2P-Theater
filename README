@@ -2,6 +2,17 @@ The goal of P2P-Theater is the ability to stream movies from your PC to your fri
 It will not be like Popcorn Time and allow you to watch exsisting torrents.
 The content MUST exist on the hosts PC.
 
+Core program ideas:
+Separate dedicated server and clients
+Dedicated servers will beable to stream content and is intended for Live Broadcasting such as presentations or other Live events. 
+Dedicated servers can also be used as a relay for another dedicated server. 
+Clients will be able to view content from servers and relay it to other peers.
+Data is transmitted in chunks of 4 to 16 MB. 
+Clients can also stream exsisting data from the client's computer. 
+
+Thinking about mobile clients. 
+
+
 Future plan once this gets traction:
 Add Music streaming support.
 Add Picture sharing support.
