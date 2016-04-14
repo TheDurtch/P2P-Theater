@@ -9,6 +9,7 @@ Dedicated servers can also be used as a relay for another dedicated server.
 Clients will be able to view content from servers and relay it to other peers.
 Data is transmitted in chunks of 4 to 16 MB. 
 Clients can also stream exsisting data from the client's computer. 
+Group chat w/ voice capabilities 
 
 Thinking about mobile clients. 
 
