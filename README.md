@@ -2,6 +2,9 @@ The goal of P2P-Theater is the ability to stream movies from your PC to your fri
 It will not be like Popcorn Time and allow you to watch existing torrents.
 The content MUST exist on the hosts PC.
 
+DHT, uTP, QT UI, ChaCha20 Encrytion (willconsider others), Built-in Media player with GPU acceleration (OpenGL?)
+
+
 Core program ideas:
 Separate dedicated server and clients
 Dedicated servers will beable to stream content and is intended for Live Broadcasting such as presentations or other Live events. 
